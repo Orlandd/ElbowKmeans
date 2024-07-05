@@ -7,7 +7,7 @@ from sklearn.decomposition import PCA
 import matplotlib.cm as cm
 
 # Ganti dengan lokasi file CSV yang benar
-file_location = "D:\\Data.csv"
+file_location = "Data.csv"
 
 
 df = pd.read_csv(file_location)
